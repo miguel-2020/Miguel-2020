@@ -1,19 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Miguel Ortiz
+#### I am an Entry-Level Programmer
+![I am an Entry-Level Programmer](https://www.canva.com/design/DAFWEyXFu4Y/oGlBaiob0SXMt-i2CTccfg/edit?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I am Miguel, from Rhode Island, USA, And I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, and Java.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-2020)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**miguel-2020/miguel-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  JS / HTML / CSS/ JAVA
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
