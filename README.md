@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Miguel Ortiz
 #### I am an Entry-Level Programmer
-![I am an Entry-Level Programmer](<img align="right" Alt="profile banner" width="400" src="https://github.com/miguel-2020/miguel-2020/blob/main/Githup%20banner.png">)
+![I am an Entry-Level Programmer](<img align="right" Alt="profile banner" width="400" src="[https://github.com/miguel-2020/miguel-2020/blob/main/Githup%20banner.png](https://github.com/miguel-2020/miguel-2020/blob/main/Githup%20banner.png)">)
 
 I am Miguel, from Rhode Island, USA, And I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and I am Bilingual in Spanish and English.
 
