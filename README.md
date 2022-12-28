@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Miguel Ortiz</h1>
-<p>A passionate developer from Rhode Island,USA.I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and basic Python.Also,I am Bilingual in Spanish and English.</p>
-<img align="right" Alt="profile banner" width="400" src="https://www.canva.com/design/DAFWEyXFu4Y/q4RTaZTx9CZXtcFataOCBw/view?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-- 🔭 I’m currently working on [Todo-App](https://github.com/miguel-2020/Todo-App)
+### Hi there 👋, my name is Miguel Ortiz
+#### I am an Entry-Level Programmer
+![I am an Entry-Level Programmer](https://www.canva.com/design/DAFWEyXFu4Y/q4RTaZTx9CZXtcFataOCBw/view?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- 🌱 I’m currently learning **Nodejs**
+I am Miguel, from Rhode Island, USA, And I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and I am Bilingual in Spanish and English.
 
-- 👯 I’m looking to collaborate on **JavaScript,Java,CSS,HTML,Python**
+Skills:  JS / HTML / CSS/ JAVA
 
-- 💬 Ask me about **JavaScript,Java,CSS,HTML,Python**
+- 🌱 I’m currently learning Nodejs 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/miguel-ortiz-cabrera-30385a1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miguel-ortiz-cabrera-30385a1a5" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miguel-20202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-ortiz-cabrera-30385a1a5/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-2020&show_icons=true&locale=en&layout=compact" alt="miguel-2020" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-2020&show_icons=true&locale=en" alt="miguel-2020" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguel-20202)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub metrics](https://metrics.lecoq.io/miguel-20202)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=miguel-20202)  
+
+![Profile views](https://gpvc.arturio.dev/miguel-20202)  
