@@ -1,8 +1,6 @@
-<img align="right" Alt="profile banner" width="400" src="[https://www.canva.com/design/DAFWEyXFu4Y/oGlBaiob0SXMt-i2CTccfg/edit?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFWEyXFu4Y/q4RTaZTx9CZXtcFataOCBw/view?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">
-
 <h1 align="center">Hi 👋, I'm Miguel Ortiz</h1>
 <p>A passionate developer from Rhode Island,USA.I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and basic Python.Also,I am Bilingual in Spanish and English.</p>
-
+<img align="right" Alt="profile banner" width="400" src="https://www.canva.com/design/DAFWEyXFu4Y/q4RTaZTx9CZXtcFataOCBw/view?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 - 🔭 I’m currently working on [Todo-App](https://github.com/miguel-2020/Todo-App)
 
 - 🌱 I’m currently learning **Nodejs**
