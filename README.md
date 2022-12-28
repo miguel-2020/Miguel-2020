@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAFWEyXFu4Y/oGlBaiob0SXMt-i2CTccfg/edit?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<img align="right" Alt="profile banner" width="400" src="https://www.canva.com/design/DAFWEyXFu4Y/oGlBaiob0SXMt-i2CTccfg/edit?utm_content=DAFWEyXFu4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
 <h1 align="center">Hi 👋, I'm Miguel Ortiz</h1>
 <h3 align="center">A passionate developer from Rhode Island,USA.I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and basic Python.Also,I am Bilingual in Spanish and English.</h3>
 
