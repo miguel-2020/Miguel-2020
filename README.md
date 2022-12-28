@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Miguel, from Rhode Island, USA, And I am currently pursuing a Bachelor in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, and Java.
+I am Miguel, from Rhode Island, USA, And I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, and Java.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-2020)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
