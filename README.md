@@ -1,4 +1,3 @@
-![logo](https://github.com/miguel-2020/miguel-2020/blob/main/Githup%20banner.png)
 <h1 align="center">Hi 👋, I'm Miguel Ortiz</h1>
 <h3 align="center">A passionate developer from Rhode Island,USA.I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and basic Python.Also,I am Bilingual in Spanish and English.</h3>
 <img align="right" Alt="profile banner" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
