@@ -17,7 +17,7 @@ I am seeking opportunities in cross-platform JavaScript runtime environments and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.linkedin.com/in/miguel-ortiz-cabrera-30385a1a5" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linked in" height="30" width="40" /></a>
+<a href="www.linkedin.linkedin.com/in/miguel-ortiz-cabrera-30385a1a5" rel="noreferrer" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my linked in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
