@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Miguel Ortiz</h1>
-<h3 align="center">A Software Developer based in Providence, Rhode Island, USA. I love building user-friendly, simple-to-use applications. I obtained my Bachelor of Arts in computer science from Rhode Island College in May 2023, where I learned the fundamentals of software testing, CSS, HTML, JavaScript, Java, and Python.
-I am seeking opportunities in cross-platform JavaScript runtime environments and libraries for running web applications such as Reactjs, Nodejs, Expressjs, and MongoDB.</h3>
-<img align="right" Alt="profile banner" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<p align="center">
+  <img Alt="profile banner" width="800" src="https://github.com/miguel-2020/miguel-2020/assets/56496543/7fe174ea-ba0d-4739-af05-2fa72e1942e6"/>
+</p>
+
+
+<p align="center">A Software Developer based in Providence, Rhode Island, USA. I love building user-friendly, simple-to-use applications. I obtained my Bachelor of Arts in computer science from Rhode Island College in May 2023, where I learned the fundamentals of software testing, CSS, HTML, JavaScript, Java, and Python.
+I am seeking opportunities in cross-platform JavaScript runtime environments and libraries for running web applications such as Reactjs,Redux, Nodejs, Expressjs, and MongoDB.</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel-2020&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-2020" /> </p>
 
 
