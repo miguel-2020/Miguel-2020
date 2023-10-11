@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Ortiz</h1>
-<h3 align="center">A passionate developer from Rhode Island,USA.I am currently pursuing a Bachelor degree in Computer Science in my current town. I am expecting to graduate in May of 2023. I have a general knowledge of Javascript, CSS,HTML, JAVA, and basic Python.Also,I am Bilingual in Spanish and English.</h3>
+<h3 align="center">A Software Developer based in Providence, Rhode Island, USA. I love building user-friendly, simple-to-use applications. I obtained my Bachelor of Arts in computer science from Rhode Island College in May 2023, where I learned the fundamentals of software testing, CSS, HTML, JavaScript, Java, and Python.
+I am seeking opportunities in cross-platform JavaScript runtime environments and libraries for running web applications such as Reactjs,Nodejs, Expressjs, and MongoDB.</h3>
 <img align="right" Alt="profile banner" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel-2020&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-2020" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 👬 I’m looking to collaborate on **JavaScript,Java,CSS,HTML,Python**
 
-- 🙋‍♀️ Ask me about **JavaScript,Java,CSS,HTML,Python**
+- 🙋‍♀️ Ask me about **JavaScript,Java, CSS,HTML, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
